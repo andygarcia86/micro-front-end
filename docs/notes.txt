@@ -1,0 +1,10 @@
+Articles and Tutorials: 
+
+ 
+1. Micro Frontends: https://martinfowler.com/articles/micro-frontends.html
+2. Micro frontends in 10 minutes: https://www.youtube.com/watch?v=s_Fs4AXsTnA 
+3. Module Federation: https://www.youtube.com/watch?v=x22F4hSdZJM 
+4. Module Federation Webpack 5: https://www.youtube.com/watch?v=D3XYAx30CNc 
+5. Vue Micro frontends: https://www.youtube.com/watch?v=ICeH3uBGGeo 
+6. Vue 3 Micro frontends: https://www.youtube.com/watch?v=YQvQwTAqXE8&t=26s 
+7. Single SPA: https://www.youtube.com/watch?v=wU06eTMQ6yI 
