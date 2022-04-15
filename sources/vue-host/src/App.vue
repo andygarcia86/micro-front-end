@@ -16,6 +16,8 @@
       <Cart />
     </div>
     <div class="col-span-2">
+      <iframe src="https://localhost:44391/" title="V2 sample" width="100%" height="400"></iframe>
+
       <div class="m-3 text-xl">
         We also like <span class="font-bold">{{filteredTaps}}</span>
       </div>
